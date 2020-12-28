@@ -10,7 +10,10 @@
 * Use `Alt + Enter` to enter test cases and run test cases
 
 
-git ### Demo
+### Demo
+#### Accepted
+![Accepted](demo/compile_error.gif)
+#### Error
 ![Compile Error](demo/compile_error.gif)
 
 ### TODO 

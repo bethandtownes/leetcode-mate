@@ -23,6 +23,7 @@
 
 ### Installation (Chrome Web Store)
 > Pending Offical Review
+[Chrome Web Store](https://chrome.google.com/webstore/devconsole/0a3b277f-08dc-437f-a37b-062deb8fe9e1/phdjfdamgpemogokbkjeidpekchgmhem/edit/package?hl=en)
 
 ### TODO 
 - [x] Theming Options (added and default to dark theme)

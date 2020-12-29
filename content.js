@@ -7,16 +7,16 @@ document.addEventListener('keydown', async function onEvent(e) {
 	toggleOrCreateSubmissionDialog();
     }
     if (e.ctrlKey && e.keyCode === 13) {
-	document.querySelector('.submit__2ISl').click(); // action
+	document.querySelector('.submit__2ISl').click(); 
 	killSubmissionPane();
 	drawSubmissionPane();
     }
 
-    if (e.altKey && e.key == "p") {
+    if (e.altKey && e.key == "i") {
 	toggleSidePanel();
     }
 
-    if (e.altKey && e.key == "`") {
+    if (e.ctrlKey && e.key == "i") {
 	toggleProblemPanel();
     }
 

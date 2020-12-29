@@ -22,7 +22,7 @@
 * Click `Load unpacked` and select the downloaded repository folder and we are done!
 
 ### Installation (Chrome Web Store)
-[Chrome Web Store](https://chrome.google.com/webstore/devconsole/0a3b277f-08dc-437f-a37b-062deb8fe9e1/phdjfdamgpemogokbkjeidpekchgmhem/edit/package?hl=en)
+[Chrome Web Store](https://0-chrome-google-com.catalogue.libraries.london.ac.uk/webstore/detail/leetcode-mate/phdjfdamgpemogokbkjeidpekchgmhem)
 
 ### TODO 
 - [x] Theming Options (added and default to dark theme)

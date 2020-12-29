@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "LeetCode Mate",
+    "version": "0.0.0.1",
+    "icons": { "16": "icons/16.png", "48": "icons/48.png", "128": "icons/128.png" },
+    "web_accessible_resources": ["pageScript.js",
+				"assets/cache.json"],
+    "background": ["background.js"],
+    "content_scripts": [
+	{
+	    "matches": ["https://leetcode.com/*", "https://leetcode-cn.com/*"],
+	    "css": ["thirdparty/jquery-ui-1.12.1.custom/jquery-ui.css",
+		    "thirdparty/spin.css",
+		    "content.css"],
+	    "js": ["thirdparty/jquery-3.5.1.min.js",
+		   "thirdparty/jquery-ui-1.12.1.custom/jquery-ui.js",
+		   "thirdparty/spin.js",
+		   "lib/util.js",
+		   "lib/actions.js",
+		   "lib/submission_pane.js",
+		   "lib/submission_pane_updater.js",
+		   "lib/runtest.js",
+		   "content.js"]
+	}
+    ]
+}

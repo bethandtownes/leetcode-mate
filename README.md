@@ -1,6 +1,4 @@
-![Logo](assets/logo.png)
-
-# LeetCode Mate
+![Logo](logo.png)
 
 > A Chrome extension to improve your LeetCode Experience!
 

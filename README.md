@@ -1,4 +1,4 @@
-![Logo](assets/logo.png)
+![Logo](logo.png)
 
 # LeetCode Mate
 
